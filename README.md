@@ -21,7 +21,7 @@ This repository contains various Arduino-based projects focusing on sensors, mot
 
 ### 4️⃣ Temperature, Humidity, and Heat Index Monitoring with DHT11 Sensor
 - **Description:** Measures temperature, humidity, and calculates the heat index.
-- **Components:** DHT11 sensor, Arduino.
+- **Components:** DHT11 sensor, LCD display (optional), Arduino.
 - **Usage:** Displays real-time environmental conditions.
 
 ### 5️⃣ Traffic Light Control System
@@ -39,8 +39,23 @@ This repository contains various Arduino-based projects focusing on sensors, mot
 - **Components:** Water level sensor, LEDs, Arduino.
 - **Usage:** Helps in water tank monitoring and automation.
 
+---
+
+## 🔧 Getting Started
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/arduino-projects.git
+   ```
+2. Open the respective project folder in the Arduino IDE.
+3. Connect the required components to your Arduino board.
+4. Upload the `.ino` file to the Arduino.
+5. Observe the output as per the project functionality.
+
+---
+
 ## 📜 License
-This project is open-source under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributions
 Feel free to fork this repository, suggest improvements, or add new projects!
