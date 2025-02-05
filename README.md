@@ -45,7 +45,7 @@ This repository contains various Arduino-based projects focusing on sensors, mot
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/arduino-projects.git
+   git clone https://github.com/Devikachandran04/ARDUINO.git
    ```
 2. Open the respective project folder in the Arduino IDE.
 3. Connect the required components to your Arduino board.
